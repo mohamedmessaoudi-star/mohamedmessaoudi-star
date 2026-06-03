@@ -1,120 +1,179 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-messaoudi-be/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Messaoudi-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Messaoudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/company/bimlo">
-    <img src="https://img.shields.io/badge/BIMLO-Company_Page-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/BIMLO-Official_Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mohamed.messaoudi@bimlo.fr">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mohamed%20Messaoudi&fontSize=50&fontAlignY=40)
-# Mohamed Messaoudi
 
-### CEO @ BIMLO | BIM Engineer | AI & DeepTwin Developer
+<h1 align="center">Mohamed Messaoudi</h1>
 
-🚀 Transforming Telecom Infrastructure with BIM, Artificial Intelligence and Digital Twins
+<h3 align="center">
+CEO @ BIMLO | BIM Engineer | AI & DeepTwin Developer
+</h3>
 
----
-
-## About Me
-
-With more than 10 years of experience in telecommunications and civil engineering, I lead BIMLO, a company specialized in BIM, AI and digital transformation of telecom infrastructures.
-
-I coordinate the production of:
-
-* Structural calculation notes
-* Fabrication drawings
-* Presentation drawings
-* Telecom tower engineering
-* Landscape integration solutions
-
-Working alongside structural and mechanical engineers, I help deliver reliable and optimized telecom infrastructure projects across France and Italy.
+<p align="center">
+🚀 BIM • Telecom • Artificial Intelligence • Digital Twins • Multi-Agent Systems
+</p>
 
 ---
 
-## BIM + AI + DeepTwin
+# 👋 About Me
 
-### DeepTwin Telecom
+With more than 10 years of experience in telecommunications and civil engineering, I lead **BIMLO**, a company specialized in BIM, Artificial Intelligence and Digital Twins for telecom infrastructures.
 
-Digital twins for telecom sites and towers enabling:
+My expertise combines field engineering and advanced digital technologies to deliver smarter and more reliable telecom projects.
 
-* Asset monitoring
-* Predictive maintenance
-* Performance optimization
-* Lifecycle management
+### Areas of Expertise
 
-### AI & RAG Solutions
-
-Intelligent assistants connected to:
-
-* Calculation reports
-* Fabrication drawings
-* Technical standards
-* Engineering documentation
-
-These solutions accelerate verification processes, reduce structural risks and improve decision-making.
+- Telecom Infrastructure Engineering
+- BIM Modeling & Coordination
+- Structural Calculation Notes
+- Fabrication Drawings
+- Digital Twins
+- Artificial Intelligence
+- RAG Systems
+- Multi-Agent AI
+- IFC Data Management
 
 ---
 
-## Current Focus
+# 🏢 BIMLO
 
-* BIM Automation
-* Telecom Digital Twins
-* Multi-Agent AI Systems
-* RAG Applications
-* IFC Data Intelligence
-* Structural Engineering
+BIMLO helps telecom operators and tower companies accelerate engineering, verification and digital transformation through BIM and AI.
+
+### Services
+
+✅ Structural Calculation Notes
+
+✅ Fabrication Drawings
+
+✅ Telecom Tower Design
+
+✅ Landscape Integration
+
+✅ BIM Modeling
+
+✅ AI Engineering Solutions
+
+✅ Digital Twins
 
 ---
 
-## Featured Projects
+# 🤖 DeepTwin Telecom
+
+DeepTwin is an intelligent Digital Twin platform dedicated to telecom infrastructures.
+
+### Features
+
+- Site Monitoring
+- Asset Management
+- Predictive Maintenance
+- Performance Optimization
+- Engineering Documentation
+- BIM Integration
+- AI-Powered Analysis
+
+---
+
+# 🧠 AI & RAG Solutions
+
+I develop AI assistants connected to:
+
+- Structural Calculation Reports
+- Fabrication Drawings
+- Technical Standards
+- Engineering Documentation
+- IFC Models
+- Telecom Project Data
+
+### Benefits
+
+- Faster Verification
+- Reduced Errors
+- Better Decision Making
+- Knowledge Centralization
+- Engineering Productivity
+
+---
+
+# 🚀 Featured Projects
 
 ### BIMLO AI Platform
 
-Multi-agent verification system capable of comparing:
+Multi-Agent Verification System:
 
-* 2D Plans vs NC
-* NC vs Fabrication Plans
-* NC vs SolidWorks
-* SolidWorks vs IFC
-* Fabrication Plans vs IFC
+- Plans 2D ↔ NC
+- NC ↔ Fabrication Plans
+- NC ↔ SolidWorks
+- SolidWorks ↔ IFC
+- Fabrication Plans ↔ IFC
 
 ### DeepTwin
 
-AI-powered Digital Twin platform dedicated to telecom infrastructures.
+AI-Powered Telecom Digital Twin Platform
+
+### BIM Knowledge Assistant
+
+RAG Chatbot connected to BIM and Telecom Engineering Documentation
 
 ---
 
-## Technologies
+# 🛠️ Technologies
 
-Python • LangGraph • LangChain • FastAPI • React • PostgreSQL • ChromaDB • IFC • BIM • Docker
+### BIM & Engineering
+
+- BIM
+- IFC
+- Revit
+- AutoCAD
+- Tekla
+- SolidWorks
+
+### AI & Development
+
+- Python
+- LangGraph
+- LangChain
+- FastAPI
+- React
+- PostgreSQL
+- ChromaDB
+- Docker
+- OpenAI
 
 ---
 
-## Contact
+# 🌍 Countries
 
-## 🌐 Connect With Me
+🇫🇷 France
 
-🏢 CEO & Founder of BIMLO
+🇮🇹 Italy
 
-📧 Email: [mohamed.messaoudi@bimlo.fr](mailto:mohamed.messaoudi@bimlo.fr)
-
-💼 LinkedIn Profile: [[Mohamed Messaoudi](https://www.linkedin.com/in/mohamed-messaoudi-be/)]
-
-🏢 LinkedIn Company: [BIMLO](https://www.linkedin.com/company/bimlo)
+🇹🇳 Tunisia
 
 ---
 
-## 📢 Follow My Work
+# 📫 Contact
 
-* BIM Engineering
-* Telecom Infrastructure
-* Digital Twins (DeepTwin)
-* Artificial Intelligence
-* RAG Systems
-* Multi-Agent AI
-* Telecom Tower Design
-* Structural Engineering
+📧 mohamed.messaoudi@bimlo.fr
 
-🚀 Building the future of Telecom Infrastructure with BIM, AI and Digital Twins.
+💼 LinkedIn:
+https://www.linkedin.com/in/mohamed-messaoudi-be/
 
+🏢 BIMLO:
+https://www.linkedin.com/company/bimlo
+
+---
+
+<p align="center">
+  <b>Building the future of Telecom Infrastructure with BIM, AI and Digital Twins 🚀</b>
+</p>
