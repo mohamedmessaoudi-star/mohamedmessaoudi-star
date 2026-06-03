@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-messaoudi-be/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Messaoudi-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://www.linkedin.com/company/bimlo">
+    <img src="https://img.shields.io/badge/BIMLO-Company_Page-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mohamed%20Messaoudi&fontSize=50&fontAlignY=40)
 # Mohamed Messaoudi
 
@@ -84,8 +93,28 @@ Python • LangGraph • LangChain • FastAPI • React • PostgreSQL • Chro
 
 ## Contact
 
-📧 [mohamed.messaoudi@bimlo.fr](mailto:mohamed.messaoudi@bimlo.fr)
+## 🌐 Connect With Me
 
-🏢 BIMLO
+🏢 CEO & Founder of BIMLO
 
-🇫🇷 France | 🇮🇹 Italy
+📧 Email: [mohamed.messaoudi@bimlo.fr](mailto:mohamed.messaoudi@bimlo.fr)
+
+💼 LinkedIn Profile: [[Mohamed Messaoudi](https://www.linkedin.com/in/mohamed-messaoudi-be/)]
+
+🏢 LinkedIn Company: [BIMLO](https://www.linkedin.com/company/bimlo)
+
+---
+
+## 📢 Follow My Work
+
+* BIM Engineering
+* Telecom Infrastructure
+* Digital Twins (DeepTwin)
+* Artificial Intelligence
+* RAG Systems
+* Multi-Agent AI
+* Telecom Tower Design
+* Structural Engineering
+
+🚀 Building the future of Telecom Infrastructure with BIM, AI and Digital Twins.
+
