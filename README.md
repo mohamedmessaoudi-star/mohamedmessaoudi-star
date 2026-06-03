@@ -1,16 +1,14 @@
-<!-- ===================== HEADER ===================== -->
-<a href="https://github.com/VOTRE_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0077B5,100:0A66C2&text=Mohamed%20Messaoudi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CEO%20%40%20BIMLO%20%7C%20BIM%20Engineer%20%7C%20AI%20%26%20Digital%20Twin%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
-</a>
+<!-- ============================ HEADER ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0077B5,100:0A66C2&text=Mohamed%20Messaoudi&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<h3 align="center">CEO @ BIMLO &nbsp;·&nbsp; BIM Engineer &nbsp;·&nbsp; AI &amp; Digital Twin Developer</h3>
+
+<!-- Tech keywords animation (decorative — profile stays readable if it fails) -->
 <p align="center">
-  <a href="https://github.com/VOTRE_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=BIM+%E2%80%A2+Telecom+%E2%80%A2+Artificial+Intelligence;Digital+Twins+%E2%80%A2+Multi-Agent+Systems;Building+the+future+of+Telecom+Infrastructure+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=0A66C2&center=true&vCenter=true&width=620&lines=BIM+%E2%80%A2+Telecom+%E2%80%A2+Artificial+Intelligence;Digital+Twins+%E2%80%A2+Multi-Agent+Systems;Building+the+future+of+Telecom+Infrastructure" alt="Typing SVG" />
 </p>
 
-<!-- ===================== SOCIAL BADGES ===================== -->
+<!-- ============================ SOCIAL ============================ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-messaoudi-be/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Messaoudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,39 +19,37 @@
   <a href="mailto:mohamed.messaoudi@bimlo.fr">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/VOTRE_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&style=for-the-badge&color=0A66C2&label=Profile+Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mohamedmessaoudi-star&style=for-the-badge&color=0A66C2&label=Profile+Views" />
 </p>
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ============================ ABOUT ============================ -->
 ## 👋 About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=0A66C2&icon_color=0077B5" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=mohamedmessaoudi-star&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=0A66C2&icon_color=0077B5&text_color=555555" />
 
 With **10+ years of experience** in telecommunications and civil engineering, I lead **[BIMLO](https://www.linkedin.com/company/bimlo)** — a company specialized in **BIM, Artificial Intelligence and Digital Twins** for telecom infrastructures.
 
-My expertise bridges **field engineering** and **advanced digital technologies** to deliver smarter, more reliable telecom projects.
+My work bridges **field engineering** and **advanced digital technologies** to deliver smarter, faster and more reliable telecom projects.
 
-- 🏢 CEO @ **BIMLO**
-- 🔭 Building **DeepTwin**, an AI-powered Digital Twin platform
-- 🤖 Developing **Multi-Agent AI** verification systems
-- 🌍 Operating across **France · Italy · Tunisia**
-- 📫 Reach me: **mohamed.messaoudi@bimlo.fr**
+- 🏢 &nbsp;CEO @ **BIMLO**
+- 🤖 &nbsp;Building **DeepTwin** — an AI-powered Digital Twin platform
+- 🧠 &nbsp;Developing **Multi-Agent AI** verification systems
+- 🌍 &nbsp;Operating across **France · Italy · Tunisia**
+- 📫 &nbsp;Reach me at **mohamed.messaoudi@bimlo.fr**
 
 <br clear="right"/>
 
 ### 🎯 Areas of Expertise
 
-`Telecom Infrastructure Engineering` · `BIM Modeling & Coordination` · `Structural Calculation Notes` · `Fabrication Drawings` · `Digital Twins` · `Artificial Intelligence` · `RAG Systems` · `Multi-Agent AI` · `IFC Data Management`
+`Telecom Infrastructure` &nbsp;·&nbsp; `BIM Modeling & Coordination` &nbsp;·&nbsp; `Structural Calculation Notes` &nbsp;·&nbsp; `Fabrication Drawings` &nbsp;·&nbsp; `Digital Twins` &nbsp;·&nbsp; `Artificial Intelligence` &nbsp;·&nbsp; `RAG Systems` &nbsp;·&nbsp; `Multi-Agent AI` &nbsp;·&nbsp; `IFC Data Management`
 
 <br/>
 
 ---
 
-<!-- ===================== BIMLO ===================== -->
+<!-- ============================ BIMLO ============================ -->
 ## 🏢 BIMLO
 
 > **BIMLO** helps telecom operators and tower companies accelerate engineering, verification and digital transformation through **BIM and AI**.
@@ -69,7 +65,7 @@ My expertise bridges **field engineering** and **advanced digital technologies**
 
 ---
 
-<!-- ===================== DEEPTWIN ===================== -->
+<!-- ============================ DEEPTWIN ============================ -->
 ## 🤖 DeepTwin Telecom
 
 An intelligent **Digital Twin platform** dedicated to telecom infrastructures.
@@ -88,10 +84,10 @@ An intelligent **Digital Twin platform** dedicated to telecom infrastructures.
 
 ---
 
-<!-- ===================== AI & RAG ===================== -->
+<!-- ============================ AI & RAG ============================ -->
 ## 🧠 AI & RAG Solutions
 
-I develop AI assistants connected to **structural calculation reports, fabrication drawings, technical standards, engineering documentation, IFC models and telecom project data**.
+I build AI assistants connected to **structural calculation reports, fabrication drawings, technical standards, engineering documentation, IFC models and telecom project data**.
 
 <table>
 <tr>
@@ -123,7 +119,7 @@ I develop AI assistants connected to **structural calculation reports, fabricati
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ============================ PROJECTS ============================ -->
 ## 🚀 Featured Projects
 
 ### 🏗️ BIMLO AI Platform — *Multi-Agent Verification System*
@@ -135,7 +131,7 @@ SolidWorks  ↔  IFC        Fabrication Plans  ↔  IFC
 ```
 
 ### 🤖 DeepTwin
-AI-Powered **Telecom Digital Twin** platform for monitoring, maintenance and engineering documentation.
+AI-powered **Telecom Digital Twin** platform for monitoring, maintenance and engineering documentation.
 
 ### 💬 BIM Knowledge Assistant
 **RAG Chatbot** connected to BIM and telecom engineering documentation for instant, sourced answers.
@@ -144,7 +140,7 @@ AI-Powered **Telecom Digital Twin** platform for monitoring, maintenance and eng
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ============================ TECH STACK ============================ -->
 ## 🛠️ Tech Stack
 
 **BIM & Engineering**
@@ -162,41 +158,41 @@ AI-Powered **Telecom Digital Twin** platform for monitoring, maintenance and eng
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
 </p>
 
 <br/>
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ============================ STATS ============================ -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=react&hide_border=true&background=00000000&ring=0A66C2&fire=0077B5&currStreakLabel=0A66C2" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=0A66C2" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mohamedmessaoudi-star&theme=react&hide_border=true&background=00000000&ring=0A66C2&fire=0077B5&currStreakLabel=0A66C2" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmessaoudi-star&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=0A66C2&text_color=555555" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmessaoudi-star&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 <br/>
 
 ---
 
-<!-- ===================== COUNTRIES / CONTACT ===================== -->
+<!-- ============================ COUNTRIES / CONTACT ============================ -->
 ## 🌍 Where I Operate
 
 <p align="center">
-  <img src="https://img.shields.io/badge/France-0055A4?style=for-the-badge&logo=france&logoColor=white" />
+  <img src="https://img.shields.io/badge/France-0055A4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Italy-008C45?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tunisia-E70013?style=for-the-badge" />
 </p>
@@ -211,5 +207,5 @@ AI-Powered **Telecom Digital Twin** platform for monitoring, maintenance and eng
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A66C2,100:0077B5&section=footer&text=Building%20the%20future%20with%20BIM,%20AI%20%26%20Digital%20Twins%20%F0%9F%9A%80&fontSize=18&fontColor=ffffff&fontAlignY=70" />
+<!-- ============================ FOOTER ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A66C2,100:0077B5&section=footer&text=Building%20the%20future%20with%20BIM,%20AI%20and%20Digital%20Twins&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%" />
